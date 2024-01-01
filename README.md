@@ -37,15 +37,15 @@ Individuals are assigned one of four skepticism levels (S4, S3, S2, S1) randomly
 
 
 ## Running the Simulation
-
-To run the app, follow these steps:
-
 Navigate to the dist folder.
-
+```shell
+cd dist
+```
 To run seif_a.exe, enter the following command:
-
+```shell
 .\seif_a.exe
-
+```
 To run seif_b.exe, enter the following command:
-
+```shell
 .\seif_b.exe
+```
