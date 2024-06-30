@@ -51,12 +51,8 @@ To run seif_b.exe, enter the following command:
 ```
 ## results
 <p align="center">
-  <img src="https://github.com/YuvalDahari/arknoid-game/blob/master/pics/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A9%D7%9C%20WhatsApp%E2%80%8F%202024-06-25%20%D7%91%D7%A9%D7%A2%D7%94%2001.28.59_bdb300d9.jpg?raw=true" alt="level 1" width="45%"/>
-  <img src="https://github.com/YuvalDahari/arknoid-game/blob/master/pics/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A9%D7%9C%20WhatsApp%E2%80%8F%202024-06-25%20%D7%91%D7%A9%D7%A2%D7%94%2001.25.59_7fb47738.jpg?raw=true" alt="level 2" width="45%"/>
-</p>
-<p align="center">
-  <img src="https://github.com/YuvalDahari/arknoid-game/blob/master/pics/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A9%D7%9C%20WhatsApp%E2%80%8F%202024-06-25%20%D7%91%D7%A9%D7%A2%D7%94%2001.26.37_f325acb8.jpg?raw=true" alt="level 3" width="45%"/>
-  <img src="https://github.com/YuvalDahari/arknoid-game/blob/master/pics/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%A9%D7%9C%20WhatsApp%E2%80%8F%202024-06-25%20%D7%91%D7%A9%D7%A2%D7%94%2001.28.15_07a5d35e.jpg?raw=true" alt="level 4" width="45%"/>
+  <img src="https://github.com/Shachar-Oron/spreading_rumours/blob/master/WhatsApp%20Image%202024-06-30%20at%2013.53.45_fb74baa9.jpg ?raw=true" alt="level 1" width="45%"/>
+  <img src="https://github.com/Shachar-Oron/spreading_rumours/blob/master/WhatsApp%20Image%202024-06-30%20at%2013.54.03_969ae482.jpg?raw=true" alt="level 2" width="45%"/>
 </p>
 
 in the results we can see different square colors.
