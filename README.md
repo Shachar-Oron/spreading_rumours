@@ -51,7 +51,7 @@ To run seif_b.exe, enter the following command:
 ```
 ## results
 <p align="center">
-  <img src="https://github.com/Shachar-Oron/spreading_rumours/blob/master/WhatsApp%20Image%202024-06-30%20at%2013.53.45_fb74baa9.jpg ?raw=true" alt="level 1" width="45%"/>
+  <img src="https://github.com/Shachar-Oron/spreading_rumours/blob/master/WhatsApp%20Image%202024-06-30%20at%2013.53.45_fb74baa9.jpg?raw=true" alt="level 1" width="45%"/>
   <img src="https://github.com/Shachar-Oron/spreading_rumours/blob/master/WhatsApp%20Image%202024-06-30%20at%2013.54.03_969ae482.jpg?raw=true" alt="level 2" width="45%"/>
 </p>
 
