@@ -27,6 +27,9 @@ Individuals are assigned one of four skepticism levels (S4, S3, S2, S1) randomly
   Experiment with different values of L to understand its effect on the spread.
 3. **Skepticism Levels Ratio:**
   Alter the distribution of skepticism levels to investigate its influence.
+<p align="center">
+  <img src="https://github.com/Shachar-Oron/spreading_rumours/blob/master/WhatsApp%20Image%202024-06-30%20at%2013.53.45_fb74baa9.jpg?raw=true" alt="level 1" width="45%"/>
+</p>
 
 ## Implementation
 1. **Random Distribution (Section A):**
@@ -51,7 +54,6 @@ To run seif_b.exe, enter the following command:
 ```
 ## results
 <p align="center">
-  <img src="https://github.com/Shachar-Oron/spreading_rumours/blob/master/WhatsApp%20Image%202024-06-30%20at%2013.53.45_fb74baa9.jpg?raw=true" alt="level 1" width="45%"/>
   <img src="https://github.com/Shachar-Oron/spreading_rumours/blob/master/WhatsApp%20Image%202024-06-30%20at%2013.54.03_969ae482.jpg?raw=true" alt="level 2" width="45%"/>
 </p>
 
